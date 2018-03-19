@@ -53,7 +53,8 @@ Given below, results I obtained with different K values for KNN :
 k = [1, 9, 19, 29, 39, 49, 59, 69, 79, 89, 99]
 ErrorRate = [0.096, 0.091, 0.108, 0.123, 0.134, 0.136, 0.143, 0.149, 0.158, 0.166, 0.171]
 
-![KNN](/KmeansClustering/KNN_graph.pngraw=true "K values vs error rate")
+![KNN](KmeansClustering/KNN_graph.png?raw=true "K values vs error rate")
+
 
 	            K = 1, with Euclidean : 
 	            Error rate : 9.6 %
