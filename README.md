@@ -2,6 +2,8 @@
 ***
 Welcome to the Digit-Recognition-Machine-Learning wiki!
 
+![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png "Written in Python")<br >
+
 # KNN Classifier for digit recognition:
 
 In k-NN classification, we will observe the class label of nearest neighbors and will take the majority of votes. Based on the K value we can decide how far we have to go for exploring nearest class labels. 
